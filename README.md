@@ -15,7 +15,7 @@ Additional Features -
 By extending the original NetLogo ABM using the above features, this model aims to mirror an existing economy in order to visualize wealth distribution and subsequent social economic mobility. 
 It attempts to answer the following questions -
   1. What measures can be implemented to change the wealth distribution?
-  2. Can the above measures be used tp achieve wealth equality? And if so, to what extent?
+  2. Can the above measures be used to achieve wealth equality? And if so, to what extent?
 
 Interface -
 <p align="center">
